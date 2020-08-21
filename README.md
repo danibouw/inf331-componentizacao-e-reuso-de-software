@@ -8,5 +8,5 @@
 
 # Laboratórios
 
-* Laboratório 1
-* Laboratório 2
+* [Laboratório 1](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/tree/master/lab01)
+* [Laboratório 2](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/tree/master/lab02)
