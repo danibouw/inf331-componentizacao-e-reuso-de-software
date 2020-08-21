@@ -1,1 +1,1 @@
-# inf331-componentizacao-e-reuso-de-software
+# INF331 - Componentização e Reúso de Software
