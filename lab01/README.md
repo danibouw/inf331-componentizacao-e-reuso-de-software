@@ -4,7 +4,7 @@
 
 ## Projeto Orange / Regras de Associação para Foodmart
 
-Acesse o diretório [orange/foodmart em santanche/component2learn](https://github.com/santanche/component2learn/tree/master/labs/01-data-flow/orange/foodmart), que relaciona compras realizadas por clientes sobre produtos, e descubra regras de associação entre produtos. Como estes dados poderiam ser explorados para recomendar produtos para clientes?
+Acesse o diretório orange/foodmart em santanche/component2learn, que relaciona compras realizadas por clientes sobre produtos, e descubra regras de associação entre produtos. Como estes dados poderiam ser explorados para recomendar produtos para clientes?
 
 ### Imagem do Projeto
 
@@ -16,7 +16,7 @@ Acesse o diretório [orange/foodmart em santanche/component2learn](https://githu
 
 ## Projeto Orange / Análise de Dados do Google PlayStore
 
-Acesse o diretório [orange/google-playstore em santanche/component2learn](https://github.com/santanche/component2learn/tree/master/labs/01-data-flow/orange/google-playstore) e elabore algum projeto que apresente algum gráfico que permita uma análise interessante dos dados.
+Acesse o diretório orange/google-playstore em santanche/component2learn e elabore algum projeto que apresente algum gráfico que permita uma análise interessante dos dados.
 
 ### Imagem do Projeto
 
