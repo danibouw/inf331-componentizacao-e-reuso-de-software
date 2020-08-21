@@ -1,7 +1,7 @@
 # INF331 - Componentização e Reuso de Software
 
 # Professor
-* André Santaché
+* André Santachè
 
 # Aluno
 * Daniela Bouwman Codeceira
