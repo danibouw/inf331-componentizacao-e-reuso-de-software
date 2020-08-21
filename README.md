@@ -1,4 +1,4 @@
-# INF331 - Componentização e Reúso de Software
+# INF331 - Componentização e Reuso de Software
 
 # Professor
 * André Santaché
