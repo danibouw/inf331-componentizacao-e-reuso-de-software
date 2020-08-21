@@ -2,7 +2,7 @@
 
 ## Tarefa sobre catálogo de componentes
 
-No diretório [s02catalog em santanche/component2learn](https://github.com/santanche/component2learn/blob/master/labs/02-data-flow_messages/notebooks/data-flow/s02catalog) está o notebook `components-01-catalog.ipynb` que apresenta o catálogo de componentes e o modo de conectá-los (visto pela perspectiva blackbox - externa) para montar uma composição. 
+No diretório s02catalog em santanche/component2learn está o notebook `components-01-catalog.ipynb` que apresenta o catálogo de componentes e o modo de conectá-los (visto pela perspectiva blackbox - externa) para montar uma composição. 
 
 Ele apresenta seis tarefas que devem ser resolvidas. A entrega desse lab será formada pelo notebook `components-01-catalog.ipynb` com as seis tarefas resolvidas.
 
