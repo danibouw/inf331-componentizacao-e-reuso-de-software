@@ -8,11 +8,11 @@ Acesse o diretório orange/foodmart em santanche/component2learn, que relaciona 
 
 ### Imagem do Projeto
 
-[![Imagem Foodmart]()]()
+[![Imagem Foodmart](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/images/foodmart.png?raw=true)](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/images/foodmart.png?raw=true)
 
 ### Arquivo do Projeto
 
-[Arquivo Orange]()
+[Arquivo Orange](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/orange/foodmartassociation.ows)
 
 ## Projeto Orange / Análise de Dados do Google PlayStore
 
@@ -20,15 +20,15 @@ Acesse o diretório orange/google-playstore em santanche/component2learn e elabo
 
 ### Imagem do Projeto
 
-[![Imagem PalyStore]()]()
+[![Imagem PalyStore](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/images/google-playstore.png?raw=true)](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/images/google-playstore.png?raw=true)
 
 ### Arquivo do Projeto
 
-[Arquivo Orange]()
+[Arquivo Orange](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/orange/google-playstore.ows)
 
 ## Gráfico(s) de Análise
 
-[![Gráfico Playstore]()]()
+[![Gráfico Playstore](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/images/google-playstore-graphic.png?raw=true)](https://github.com/danibouw/inf331-componentizacao-e-reuso-de-software/blob/master/lab01/images/google-playstore-graphic.png?raw=true)
 
 ## Projeto de Composição de Componentes para Recomendação
 
